@@ -122,19 +122,16 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ADVOGADA PARA ENTRAR COM DIVÓRCIO",
-      FirstPart: <span>Chega de adiar: </span>,
+      miniTag: "ADVOGADA ESPECIALISTA EM DIVÓRCIO",
+      FirstPart: <span>Advogada para</span>,
       Destaque: (
-        <span className="relative italic font-light destaque">
-          Dê entrada no seu divórcio{" "}
-        </span>
+        <span className="relative italic font-light destaque">cuidar</span>
       ),
-      SecondPart: <span>e volte a ter paz</span>,
+      SecondPart: <span>do seu Divórcio</span>,
       subtitle: (
         <p>
-          Pare de viver preso a um casamento que já acabou e resolva seu
-          divórcio com o auxílio de uma Advogada que focará em fazer tudo de
-          forma rápida e sem conflitos.
+          Orientação jurídica especializada para conduzir seu divórcio com
+          segurança, cuidando da divisão de bens, guarda e pensão.
         </p>
       ),
       heroDefaultImage: heroDefaultImg, // img da pessoa mobile
